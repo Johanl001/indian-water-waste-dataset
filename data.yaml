@@ -1,0 +1,10 @@
+path: .
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: plastic_bottle
+  1: plastic_bag
+  2: wrapper_packet
+  3: cup_container
+  4: floating_organic

@@ -1,0 +1,8 @@
+raw/*
+!raw/.gitkeep
+*.mp4
+*.mov
+*.pt
+runs/
+__pycache__/
+.DS_Store
